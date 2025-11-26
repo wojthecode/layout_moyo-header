@@ -26,9 +26,7 @@ body {
   height: 100%;
   margin: 0 10px;
   list-style: none;
-  align-content: center;
   font-size: 12px;
-  position: relative;
 }
 
 .link__box:first-child {
@@ -41,6 +39,7 @@ body {
 
 .link {
   display: inline-block;
+  position: relative;
   line-height: 60px;
   text-decoration: none;
   text-transform: uppercase;
