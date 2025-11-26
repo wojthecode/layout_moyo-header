@@ -43,6 +43,7 @@ body {
   display: inline-block;
   line-height: 60px;
   text-decoration: none;
+  text-transform: uppercase;
   color: black;
 }
 
